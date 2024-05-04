@@ -1,4 +1,4 @@
-# Desafio estágio de programação
+# Desafio para estágio de programação
 
 ## Descrição
 
@@ -39,8 +39,9 @@ o merge de futuras atualizações.
 
 ## Critérios de avaliação
 
+- Capacidade de implementar a funcionalidade solicitada
 - Qualidade do código
-    1. Padronização do código
+    1. Padronização
     2. Uso de Orientação a Objetos
     3. Uso de boas práticas de programação
 - Clareza e organização

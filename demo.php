@@ -9,11 +9,11 @@ $filepath = __DIR__ . '/resources/contacts.vcf';
 
 $vcard = Reader::read(fopen($filepath, 'r'));
 
-echo "FN: " . $vcard->FN . "\n";
-echo "TEL: " . $vcard->TEL . "\n";
-echo "EMAIL: " . $vcard->EMAIL . "\n";
-echo "ORG: " . $vcard->ORG . "\n";
-echo "TITLE: " . $vcard->TITLE . "\n";
-echo "URL: " . $vcard->URL . "\n";
-echo "ADR: " . $vcard->ADR . "\n";
-echo "NOTE: " . $vcard->NOTE . "\n";
+echo "FN: ", $vcard->FN, PHP_EOL;
+echo "TEL: ", $vcard->TEL, PHP_EOL;
+echo "EMAIL: ", $vcard->EMAIL, PHP_EOL;
+echo "ORG: ", $vcard->ORG, PHP_EOL;
+echo "TITLE: ", $vcard->TITLE, PHP_EOL;
+echo "URL: ", $vcard->URL, PHP_EOL;
+echo "ADR: ", $vcard->ADR, PHP_EOL;
+echo "NOTE: ", $vcard->NOTE, PHP_EOL;
