@@ -1,7 +1,8 @@
 # Resolução de Desafio
 
 ## Descrição
-
+Criação da Classe ReadAll para ser responsável por ler todos os contatos dentro do arquivo '.vcf' que estiver dentro da pasta 'Resources'
+No index foi adicionado a função de gerar uma tablela com os dados colhidos do arquivo para melhor visualização.
 ### Classe ReadAll.php 
 
 É responsável por importar contatos no formato vCard de arquivos `.vcf` e processar os dados para posterior utilização usando no index.php para criar uma tabela.
