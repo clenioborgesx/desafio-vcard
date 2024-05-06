@@ -15,7 +15,7 @@
 ## Como usar
 
 1. Clone esse repositório
-2. Você vai precisar instalar o usando o comando: composer install 
+2. Você vai precisar instalar o COMPOSER o usando o comando: composer install 
 3. Para ver o arquivo dentro de uma tabela abra usando o index.php - **Recomendado**
 4. Para ver no mesmo formato da demonstração inicial abra na demo.php
 
