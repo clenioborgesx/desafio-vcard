@@ -2,7 +2,7 @@
 
 ## Descrição
 
-# ReadAll.php - 
+### Classe ReadAll.php 
 
 É responsável por importar contatos no formato vCard de arquivos `.vcf` e processar os dados para posterior utilização usando no index.php para criar uma tabela.
 
